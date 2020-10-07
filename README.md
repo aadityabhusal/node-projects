@@ -13,8 +13,12 @@ A list of projects created while learning Node. The projects ideas are not my or
 1. Open the root folder in the terminal and enter the following command:
 
     `npm install`
-    
-2. Enter the following url in your browser:
+
+2. Start the project server from the terminal:
+
+    `npm start`
+
+3. Enter the following url in your browser:
 
     ` http://localhost:3000`
     
