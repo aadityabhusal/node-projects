@@ -1,5 +1,5 @@
 {
-  "name": "learning-node",
+  "name": "simple-chat-app",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,11 +9,7 @@
     "mongoose": "^5.10.8",
     "socket.io": "^2.3.0"
   },
-  "devDependencies": {
-    "jasmine": "^3.6.1"
-  },
   "scripts": {
-    "test": "jasmine",
     "start": "node server.js"
   },
   "author": "",
